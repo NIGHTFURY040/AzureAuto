@@ -1,7 +1,8 @@
 $startTime = Get-Date
 Write-Output "Runbook started at: $startTime"
 
-# Your runbook logic here
+#logic
+Write-output "this is a test to find the completion time of a runbook"
 
 $endTime = Get-Date
 Write-Output "Runbook ended at: $endTime"
